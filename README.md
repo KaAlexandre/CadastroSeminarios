@@ -1,6 +1,6 @@
-# Nome do Projeto
+# Cadastro de Seminários
 
-Uma breve descrição sobre o que este projeto faz e para quem ele é.
+Este é um mini projeto que realiza cadastro de seminários,  alunos e um professor responsável por gerenciar seminários selecionados, exibindo informações dos alunos e o determinado seminário em que estão inclusos
 
 ## Índice
 
@@ -13,13 +13,4 @@ Uma breve descrição sobre o que este projeto faz e para quem ele é.
 
 ## Sobre
 
-Escreva uma breve introdução sobre o propósito do seu projeto, sua funcionalidade e quais problemas ele resolve.
-
-## Instalação
-
-Descreva como instalar e configurar o projeto em um ambiente de desenvolvimento local. Por exemplo:
-
-```bash
-git clone https://github.com/usuario/repositorio.git
-cd repositorio
-npm install
+Esse algoritmo pode ser utilizado em projetos onde será necessário realizar o cadastro de diversos itens em uma mesma execução, graças ao uso de estruturas de repetição, condicionais e arrays que armazenam as informações passadas durante a execução.
